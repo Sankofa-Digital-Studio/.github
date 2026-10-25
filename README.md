@@ -1,48 +1,44 @@
 # Sankofa Digital
 
-Sankofa Digital is a creative studio shaping meaningful digital experiences through culture, storytelling, and innovation. We blend design thinking, strategic creativity, and modern technology to help brands, ideas, and communities grow with purpose.
+Sankofa Digital is a refined creative studio where heritage, culture, and contemporary design converge. We craft elevated digital experiences that express identity with clarity, intention, and lasting impact.
 
-## Brand Promise
+## The Studio
 
-We create work that connects heritage to the future — thoughtful, expressive, and built to resonate.
+We partner with brands, founders, and cultural visionaries to shape thoughtful visual systems, digital narratives, and experiences that feel both timeless and distinctly modern. Our work is designed to resonate deeply — rooted in meaning, elevated in execution.
 
-## What We Do
+## Signature Approach
 
-- Brand identity and positioning
-- Creative direction
-- Digital experiences and web design
-- Visual storytelling
-- Strategy for culture-centered growth
+At Sankofa Digital, we believe the strongest creative work is informed by story and guided by purpose. We draw inspiration from legacy while embracing innovation, creating work that balances artistry with strategy.
 
-## Philosophy
+## What We Create
 
-We believe the future is strongest when it carries the wisdom of the past. Sankofa — a symbol of learning from history while moving forward — guides our approach to design and storytelling. Every project is shaped with intention, authenticity, and cultural awareness.
+- Brand identity and visual systems
+- Creative direction and art direction
+- Digital presence and web experiences
+- Cultural storytelling and narrative design
+- Strategic design for growth and distinction
 
-## Portfolio Focus
+## Design Philosophy
 
-Our work centers on helping individuals and organizations communicate with clarity, character, and impact. We design systems and experiences that feel rooted, memorable, and aligned with the people they serve.
+We build with intention. Every detail is considered, every message is purposeful, and every experience is designed to feel elevated, memorable, and culturally grounded.
 
-## Values
+## Core Values
 
 - Heritage and identity
-- Creativity with purpose
-- Community-centered thinking
-- Authentic storytelling
-- Innovation guided by meaning
+- Intentional design
+- Creative excellence
+- Cultural relevance
+- Meaningful innovation
 
 ## Team
 
 - sankofa_xciv
 - ohhttooee_xciv
 
-## Approach
-
-We work collaboratively and intentionally, combining strategic insight with expressive design. Our process is rooted in understanding context, refining message, and building experiences that are both beautiful and effective.
-
 ## Why Sankofa Digital
 
-Because meaningful work is not just seen — it is felt. We build digital experiences that reflect intention, elevate voice, and leave a lasting impression.
+Because the most compelling brands are not simply seen — they are felt. We create digital experiences that honor the past, reveal the present, and shape the future with elegance and purpose.
 
 ---
 
-Sankofa Digital — honoring legacy, building tomorrow.
+Sankofa Digital — cultivating legacy through modern expression.
