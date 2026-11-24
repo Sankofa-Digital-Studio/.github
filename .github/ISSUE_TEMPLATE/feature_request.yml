@@ -1,0 +1,17 @@
+name: Feature request
+description: Propose an improvement and describe the outcome you need.
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and affected users
+      description: Describe the need using redacted or synthetic examples.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome
+      description: Explain how someone would know the improvement works.
+    validations:
+      required: true
